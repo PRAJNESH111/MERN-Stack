@@ -1,0 +1,55 @@
+/* styles.css */
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f2f5;
+}
+
+#header2 {
+    text-align: center;
+    color: #e7ebf0; /* Facebook blue */
+}
+
+#card {
+    background-color: #04446e;
+    border-radius: 10px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    padding: 40px;
+    max-width: 400px;
+    margin: 0 auto;
+    margin-top: 40px;
+}
+
+#p2 {
+    text-align: center;
+    color: #f7f1f1;
+}
+
+input[type="text"],
+input[type="password"] {
+    width: 100%;
+    padding: 10px;
+    margin: 5px 0;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+}
+
+button {
+    width: 100%;
+    padding: 10px;
+    background-color: #259bd1;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+a {
+    text-decoration: none;
+    color: #3e7cce;
+}
+#forgot{
+    color:#fff;
+
+}
+

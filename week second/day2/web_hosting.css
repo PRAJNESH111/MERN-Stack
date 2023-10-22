@@ -1,0 +1,79 @@
+#back_ground {
+    width: 120%;
+    height: 100%;
+    object-fit: cover;
+    position: relative;
+    left:-10%;
+    right: -10%;
+}
+
+#overlay {
+    position: absolute;
+    left:5%;
+    top: 5%;
+    right: 20%;
+    bottom: auto;
+    /* transform: translate(-50%, -50%); */
+    color: white;
+    background-color: rgba(0, 0, 0, 0.0);
+    padding: 10px;
+    max-width: 90%;
+    text-align: left;
+}
+
+
+#control{
+    background-color: rgb(225, 225, 225);
+    border-radius: 10px;
+    height:90%;
+    width:100%;
+
+}
+
+#sub_control{
+    background-color:white;
+    color:black;
+}
+
+#actions{
+    margin-top:20px;
+    margin-left: 1%;
+    width: 98%;
+    height: 88%;
+    
+    background-color: transparent;
+    display: flex;
+}
+
+#left_action{
+    color:black;
+    width:25%;
+    margin-left:1%;
+    background-color:white;
+}
+
+#right_action{
+    width: 70%;
+    color: black;
+    margin-right:1%;
+    background-color: white;
+}
+
+#start{
+    margin-left:10%;
+    width: 250px;
+    margin-right:auto;
+}
+
+#end{
+    
+    margin-left:35%;
+    width:250px;
+    margin-right:auto;
+    
+    
+}
+
+.calender{
+    border-radius: 12px;
+}

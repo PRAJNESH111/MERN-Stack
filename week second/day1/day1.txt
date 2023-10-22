@@ -1,0 +1,14 @@
+bootsrap -
+fronted framework or css framework used for creating responsive websites and web applications 
+
+
+two way to add bootstap-
+1)CDN links
+2)download
+
+
+grid syatem -
+1)breakjpoint
+2)container
+3)row
+4)column=grid 

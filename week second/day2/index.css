@@ -1,0 +1,53 @@
+.logo{
+    padding-left: 190px;
+    
+}
+/* #main_logo{
+    text-shadow: 2px 2px 0px #fff, 4px 4px 0px #000; */
+/* } */
+.site_anchors{
+    text-decoration: none;
+    color: white;
+    font-weight: 600;
+   
+}
+
+.overlay-container {
+    position: relative;
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+}
+
+#back_ground {
+    width: 120%;
+    height: 100%;
+    object-fit: cover;
+    position: relative;
+    left:-10%;
+    right: -10%;
+}
+
+#overlay_text {
+    position: absolute;
+    left:5%;
+    top: 30%;
+    right: 20%;
+    /* transform: translate(-50%, -50%); */
+    color: white;
+    background-color: rgba(0, 0, 0, 0.0);
+    padding: 10px;
+    max-width: 90%;
+    text-align: left;
+    
+}
+.three-d-text {
+    font-size: 3rem;
+    text-transform: uppercase;
+    color: #fff;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.6);
+    background: transparent;
+    
+}
+
+
